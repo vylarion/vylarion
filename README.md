@@ -89,6 +89,15 @@
 
 ###
 
-<p align="left">👋 Hey there! I'm Samya Halder, a passionate full-stack developer, UI/UX designer, and Web3 enthusiast from Kolkata. I love building seamless digital experiences, designing intuitive interfaces, and exploring the power of blockchain technology. With a deep interest in decentralization, I’m always experimenting with new ways to enhance user engagement. Beyond tech, I’m also a music producer, blending creativity with beats and mashups. Whether it’s coding, designing, or making music, I thrive on innovation and pushing boundaries. Always eager to learn, collaborate, and create something impactful. Let’s connect and make something awesome! 🚀🎨🎶</p>
+<p align="left">
+  👋 Hey there! I'm **Samya Halder**, a passionate full-stack developer, UI/UX designer, and Web3 enthusiast from Kolkata.  
+
+💻 **Full-Stack Developer** – I build scalable and efficient web applications.  
+🎨 **UI/UX Designer** – I craft smooth, user-friendly digital experiences.  
+🌐 **Web3 Enthusiast** – I explore blockchain to create decentralized and transparent solutions.  
+🎵 **Music Producer** – I mix beats, create mashups, and experiment with sound.  
+
+🚀 Always learning, innovating, and pushing boundaries. Whether it's coding, designing, or producing music, I thrive on creativity and technology. Let’s connect and collaborate on something amazing!
+</p>
 
 ###
