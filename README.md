@@ -90,7 +90,7 @@
 ###
 
 <p align="left">
-  👋 Hey there! I'm **Samya Halder**, a passionate full-stack developer, UI/UX designer, and Web3 enthusiast from Kolkata.  
+  👋 Hey there! I'm Samya Halder, a passionate full-stack developer, UI/UX designer, and Web3 enthusiast from Kolkata.  
 
 💻 **Full-Stack Developer** – I build scalable and efficient web applications.  
 🎨 **UI/UX Designer** – I craft smooth, user-friendly digital experiences.  
