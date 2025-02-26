@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="190" src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"  />
+<img align="right" height="175" src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"  />
 
 ###
 
