@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"  />
+<img align="right" height="190" src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"  />
 
 ###
 
@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="190" src="https://media1.tenor.com/m/UaDF9RVI_p0AAAAd/fgo-arjuna.gif"  />
+  <img height="175" src="https://media1.tenor.com/m/UaDF9RVI_p0AAAAd/fgo-arjuna.gif"  />
 </div>
 
 ###
