@@ -58,7 +58,7 @@
 
 ###
 
-<img align="left" height="175" src="https://media1.tenor.com/m/XiYJt8icLrIAAAAd/himejima-gyomei-stone-breathing.gif"  />
+<img align="left" height="165" src="https://media1.tenor.com/m/XiYJt8icLrIAAAAd/himejima-gyomei-stone-breathing.gif"  />
 
 ###
 
