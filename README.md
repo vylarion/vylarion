@@ -1,4 +1,4 @@
-<h1 align="center">Full-Stack Developer | Web3 <br>UI/UX | Cybersecurity <br>Music Producer</h1>
+<h1 align="center">Offensive Cybersecurity <br>Web3 | FrontEnd Developer <br>Music Producer</h1>
 
 ###
 
@@ -73,26 +73,14 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"  />
+
 
 ###
 
-<img align="left" height="160" src="https://media1.tenor.com/m/XiYJt8icLrIAAAAd/himejima-gyomei-stone-breathing.gif"  />
+
 
 ###
 
-<div align="center">
-  <img height="160" src="https://media1.tenor.com/m/UaDF9RVI_p0AAAAd/fgo-arjuna.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/seasmoker/count.svg?"  />
-</div>
-
-###
-
-<p align="left">👋 Hey there! I'm Samya Halder, a passionate full-stack developer, UI/UX designer, and Web3 enthusiast from Kolkata. I love building seamless digital experiences, designing intuitive interfaces, and exploring the power of blockchain technology. With a deep interest in decentralization, I’m always experimenting with new ways to enhance user engagement. Beyond tech, I’m also a music producer, blending creativity with beats and mashups. Whether it’s coding, designing, or making music, I thrive on innovation and pushing boundaries. Always eager to learn, collaborate, and create something impactful. Let’s connect and make something awesome! 🚀🎨🎶</p>
+<p align="left">I’m Samya Halder, a cybersecurity enthusiast focused on offensive security, recon automation, and system hardening. I also enjoy crafting clean, secure frontends and exploring the role of blockchain in trust and transparency. Always learning, always building — whether it's code or beats.</p>
 
 ###
