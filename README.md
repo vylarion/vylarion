@@ -1,4 +1,4 @@
-<h1 align="center">Offensive Cybersecurity <br>Web3 | FrontEnd Developer <br>Music Producer</h1>
+<h1 align="center">Offensive Security <br>Web3 | FrontEnd Developer <br>Music Producer</h1>
 
 ###
 
