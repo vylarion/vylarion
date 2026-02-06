@@ -60,21 +60,11 @@
 
 <br clear="both">
 
-
-
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vylarion/vylarion/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-###
-
-
 
 ###
 
