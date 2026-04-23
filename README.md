@@ -13,6 +13,7 @@ Developer and cybersecurity enthusiast from Kolkata, focused on building practic
 <p >
   <img src="https://streak-stats.demolab.com/?user=vylarion&theme=highcontrast&hide_border=false" width="81%" />
 </p>
+<img src="https://raw.githubusercontent.com/vylarion/vylarion/output/snake.svg" alt="Snake animation" width="82%"/>
 
 ##  Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vylarion) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vylarion) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vylarion) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vylarion) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k4samya@gmail.com) 
