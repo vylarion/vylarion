@@ -11,7 +11,7 @@ Developer and cybersecurity enthusiast from Kolkata, focused on building practic
 </p>
 
 <p >
-  <img src="https://streak-stats.demolab.com/?user=vylarion&theme=dark&hide_border=false" width="81%" />
+  <img src="https://streak-stats.demolab.com/?user=vylarion&hide_border=false" width="81%" />
 </p>
 <img src="https://raw.githubusercontent.com/vylarion/vylarion/output/snake.svg" alt="Snake animation" width="82%"/>
 
