@@ -16,6 +16,7 @@ p.s. I have no idea what the above stuff is
 <p >
   <img src="https://streak-stats.demolab.com/?user=vylarion&theme=highcontrast&hide_border=false" width="81%" />
 </p>
+
 <img src="https://raw.githubusercontent.com/vylarion/vylarion/output/snake.svg" alt="Snake animation" width="82%"/>
 
 ##  Socials:
